@@ -1,4 +1,4 @@
-# langchain_pdf_app
+# Langchain PDF App
 An attempt at making a mini-ChatGPT for uploaded PDFs. Thanks to Alejandro AO for the exellent tutorial:
 https://www.youtube.com/watch?v=wUAUdEw5oxM
 
